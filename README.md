@@ -17,5 +17,6 @@ How to reach me moizali2577@gmail.com
 
 
 
-![linkedin-5380185_1280-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/0c580bd7-595d-4af6-b5c1-08437091cdd9)https://www.linkedin.com/in/moiz-ali-20b280274/
+![linkedin-5380185_1280-removebg-preview]https://www.linkedin.com/in/moiz-ali-20b280274/
+(https://github.com/moiz257/moiz257/assets/168088647/0c580bd7-595d-4af6-b5c1-08437091cdd9)
 
