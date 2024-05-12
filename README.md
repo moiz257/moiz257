@@ -20,4 +20,4 @@ How to reach me moizali2577@gmail.com
 
 
  
-![img-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/55fb9de8-a7ff-4569-a018-b7aac877732c)
+![linkedin-5380185_1280-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/6fee1f0b-2aff-42b8-a830-7bd68a704c68)
