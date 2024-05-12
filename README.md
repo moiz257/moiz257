@@ -5,7 +5,12 @@ MoizAli/README.md
 
 
 👨‍🎓 I’m currently enrolled in Governor Initiative for IT.
+
 📚 I’m currently learning Cloud Applied Generative AI Engineer (GenEng).
-💬 Ask me about HTML, CSS ,JavaScript, TypeScript
-How to reach me 
+
+💬 Ask me about HTML, CSS ,JavaScript, TypeScript.
+
+🔗 All of my workings are available at https://www.linkedin.com/in/moiz-ali-20b280274/
+
+How to reach me moizali2577@gmail.com
 
