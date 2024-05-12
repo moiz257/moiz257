@@ -14,3 +14,7 @@
 
 How to reach me moizali2577@gmail.com
 
+
+
+
+![linkedin-5380185_1280-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/0c580bd7-595d-4af6-b5c1-08437091cdd9)
