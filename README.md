@@ -1,5 +1,8 @@
+MoizAli/README.md
 
-<!---
-moiz257/moiz25README.md7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->README.md
+👨‍🎓 I’m currently enrolled in Governor Initiative for IT.
+
+📚 I’m currently learning Cloud Applied Generative AI Engineer (GenEng).
+💬 Ask me about HTML, CSS ,JavaScript, TypeScript
+How to reach me ![img](https://github.com/moiz257/moiz257/assets/168088647/efc7c18b-2039-455b-b264-6a208f9e88e2)
+
