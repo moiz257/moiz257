@@ -1,4 +1,4 @@
-MoizAli/README.md
+
 ![img-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/2cc7603c-4276-4925-b3c3-462458541d03)
 
 
