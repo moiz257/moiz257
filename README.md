@@ -1,4 +1,5 @@
-![img-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/2cc7603c-4276-4925-b3c3-462458541d03
+
+![Yoxt-removebg-preview](https://github.com/moiz257/moiz257/assets/168088647/d7a8bc06-c730-4d9b-9946-b8f301b7939c)
 
 
 
@@ -15,7 +16,6 @@ How to reach me moizali2577@gmail.com
 
 
 
-![Yoxt](https://github.com/moiz257/moiz257/assets/168088647/ff7e9fff-2f8a-4c06-b287-045805f08c6a)
 
 
 
