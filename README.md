@@ -10,10 +10,10 @@
 
 💬 Ask me about HTML, CSS ,JavaScript, TypeScript.
 
-🔗 All of my workings are available at https://www.linkedin.com/in/moiz-ali-20b280274/
 
-How to reach me moizali2577@gmail.com
 
+<a href="https://www.linkedin.com/in/moiz-ali-20b280274/">
+                <i class='bx bxl-linkedin-square'><i>
 
 
 
