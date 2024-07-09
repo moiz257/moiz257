@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/moiz-ali-20b280274/">
                 <i class='bx bxl-linkedin-square'><i>
-
+ </a>
 
 
 
